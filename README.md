@@ -1,4 +1,4 @@
-#External GPU Detect For Fedora
+# External GPU Detect For Fedora
 
 
 Nvidia GPU Hardware Detected
