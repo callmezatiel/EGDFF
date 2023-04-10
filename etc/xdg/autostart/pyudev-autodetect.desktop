@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Python udev USB detect and execute
+Exec=/etc/pyudev-autodetect/pyudev-autodetect.py
+Comment=Detects when a USB device is plugged in, and if it's an Nvidia device, checks if the nvidia driver is installed.
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-phase=0
+
